@@ -12,7 +12,7 @@ pre = "<b>3. </b>"
 
 [Telegram - OMG Network (Unofficial)](https://t.me/OmiseGo)
 
-Duis dolor laborum sunt dolore excepteur. Duis ut sint nulla anim anim proident consectetur tempor consectetur quis cillum ea. Amet labore laboris officia ex adipisicing officia. Magna ut commodo qui proident enim excepteur esse duis nostrud qui consequat quis enim. Consectetur ea non in id nostrud proident veniam excepteur cillum.
+Duis dolor laborum sunt dolore excepteur. Duis ut sint nulla anim anim proident consectetur tempor consectetur quis cillum ea. Amet labore laboris officia ex adipisicing officia. Magna ut commodo qui proident enim excepteur esse duis nostrud qui consequat quis enim. Consectetur ea non in id nostrud proident veniam excepteur.
 
 Do minim deserunt veniam enim amet aute ut non fugiat eu duis occaecat. Dolore quis non sunt dolore laborum eiusmod velit in non culpa consequat sint magna quis. Lorem reprehenderit adipisicing exercitation elit dolor incididunt officia ullamco quis officia ipsum. Commodo fugiat eiusmod velit consectetur commodo ut. Culpa deserunt aliqua laborum in ea tempor dolore laboris ex amet. Occaecat voluptate ex pariatur deserunt exercitation aliqua deserunt nostrud ut sit nostrud excepteur officia sint. Culpa anim laboris labore fugiat Lorem mollit eiusmod.
 
