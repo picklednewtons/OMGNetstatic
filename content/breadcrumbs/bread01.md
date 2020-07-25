@@ -3,7 +3,17 @@ title = "Breadcrumbs"
 weight = 15
 +++
 
-Aliquip ea duis ad amet cillum anim aliquip ut et consectetur et id sint officia. Adipisicing reprehenderit labore commodo ut ex duis sit pariatur labore. Tempor incididunt veniam proident sit sint voluptate mollit dolor proident amet duis irure. Reprehenderit est qui quis sunt sunt incididunt culpa sint. Ea fugiat labore mollit duis culpa velit occaecat consequat. Ex occaecat veniam aute sint. Mollit est excepteur mollit amet ex veniam elit.
+## Relationships
+
+Visualisation of OMG Network and the surrounding ecosystem relationships:
+
+[Kumu graph](https://kumu.io/vnbns/omg)
+
+## Exchanges
+
+anchorage.com offer OMG as an asset:
+
+[anchorage](https://anchorage.com/)
 
 > Nom nom Toyota nom Tether nom krungsri Qui nostrud nulla commodo ea aliqua reprehenderit ut pariatur quis sit proident. Ipsum ad et non irure mollit nulla tempor in occaecat sit occaecat. Lorem ullamco commodo exercitation id non dolor. Nulla amet aliquip veniam cillum. Veniam tempor aute reprehenderit laborum esse aliqua eiusmod pariatur labore minim velit cupidatat eu. Reprehenderit reprehenderit in minim veniam amet consequat consequat tempor incididunt minim consequat.
 >
