@@ -22,11 +22,11 @@ Aioi Nissay Dowa Insurance Co., Ltd. has been providing integrated TFS, finance 
 
 ## Vision
 
-Toyota blockchain lab had released a video in March 2020 discussing their vision for blockchain:
+Toyota blockchain lab released a video in March 2020 discussing their vision for blockchain:
 
 {{< youtube MAzJjvBzppI >}}
 
-Also in March 2020 Toyota announced a [strategic partnership with the Securitize subsidiary BUIDL](https://www.securities.io/toyota-partners-with-buidl-securitize/#:~:text=This%20week%2C%20the%20global%20car,platform%20in%20the%20coming%20months.) and it just so happens that Jun one of the [founders of Buidl](https://www.crunchbase.com/organization/buidl/people) who were [acquired](https://www.ledgerinsights.com/mufg-nomura-backed-securitize-buys-japanese-consultancy/) by [Mitsubishi UFJ Financial Group (MUFG)](https://www.mufg.jp/english/index.html) in December 2019. Way back in September 2017 Jun announced investment from MUFG subsidiary [bank of Ayudhya](https://www.krungsri.com/bank/en/home.html) also known as Krungsri, one of the largest banks in Thailand:
+Also in March 2020 Toyota announced a [strategic partnership with the Securitize subsidiary BUIDL](https://www.securities.io/toyota-partners-with-buidl-securitize/#:~:text=This%20week%2C%20the%20global%20car,platform%20in%20the%20coming%20months.) and it just so happens that Jun is one of the [founders of Buidl](https://www.crunchbase.com/organization/buidl/people) who were [acquired](https://www.ledgerinsights.com/mufg-nomura-backed-securitize-buys-japanese-consultancy/) by [Mitsubishi UFJ Financial Group (MUFG)](https://www.mufg.jp/english/index.html) in December 2019. Way back in September 2017 Jun announced investment from MUFG subsidiary [bank of Ayudhya](https://www.krungsri.com/bank/en/home.html) also known as Krungsri, one of the largest banks in Thailand:
 
 {{< tweet 913293455115280384 >}}
 
