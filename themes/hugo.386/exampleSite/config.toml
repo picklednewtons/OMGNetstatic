@@ -1,5 +1,5 @@
-baseURL = "https://icy-bay-0b0640403.azurestaticapps.net/"
-title = "Deplebify"
+baseURL = "https://example.com"
+title = "HUGO.386"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
@@ -7,29 +7,29 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "Deplebify"
+    mainpagetitle = "HUGO.386"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Can you read me now?"
+    mainpagesubtitle = "Welcome to the early 90s!" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This theme should make the old buffers happy"
+    mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
 
     # The name to display in the copyright section in the footer
-    copyrightname = "The Pickler"
+    copyrightname = "JM Fergeau"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = ""
+    copyrighturl = "http://jmf-portfolio.netlify.com"
 
     # Show the "built on Hugo" disclaimer
-    # showhugo = true
+    showhugo = true
 
     # Urls for social networks
-    # facebook = "https://facebook.com"
-    # twitter = "https://twitter.com"
-    # linkedin = "https://linkedin.com"
-    # github = "https://github.com"
-    # gitlab = "https://gitlab.com"
+    facebook = "https://facebook.com"
+    twitter = "https://twitter.com"
+    linkedin = "https://linkedin.com"
+    github = "https://github.com"
+    gitlab = "https://gitlab.com"
 
     # Enables or disables the loading animations. false activates them. Default is false.
     loadfastload = false
@@ -41,16 +41,16 @@ preserveTaxonomyNames = true
     loadonepass = false
 
 [params.copyright]
-    name = "PickledNewtons"
+    name = "JM Fergeau"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = "https://www.google.com/search?q=pickle&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj0lMHu34brAhXfUhUIHfVqDxUQ_AUoAXoECBYQAw&biw=1920&bih=920"
+    url = "http://jmf-portfolio.netlify.com"
 
     # Text to go before copyright information
-    prefix = "OMG Network test site"
+    prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = ""
+    suffix = "Example site"
 
 [menu]
   # This displays buttons in the navbar to access your contents
@@ -63,7 +63,7 @@ preserveTaxonomyNames = true
   [[menu.main]]
     identifier = "posts"
     name = "All posts"
-    url = "/content/post"       # The path can lead to a content folder too.
+    url = "/post/"       # The path can lead to a content folder too.
     weight = 20
 
 [taxonomies]
