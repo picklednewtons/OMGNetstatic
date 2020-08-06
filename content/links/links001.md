@@ -67,7 +67,7 @@ MUFG to Launch Digital Currency in 2020:
 
 MUFG acquire [BUIDL](https://www.ledgerinsights.com/mufg-nomura-backed-securitize-buys-japanese-consultancy/)
 
-...and one of the founders of [Buidl?](https://sg.linkedin.com/in/junhase)
+...and one of the founders of [Buidl?](https://sg.linkedin.com/in/junhase). [Mitsubishi UFJ Financial Group (MUFG)](https://www.mufg.jp/english/index.html) acquired [BUIDL](https://www.ledgerinsights.com/mufg-nomura-backed-securitize-buys-japanese-consultancy/) in December 2019.
 
 Toyota completes blockchain identity trials with [Securitize owned BUIDL](https://www.ledgerinsights.com/toyota-blockchain-identity-trial-with-securitize-owned-buidl/)
 
