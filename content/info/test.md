@@ -1,14 +1,12 @@
 +++
-title = "Pleb"
+title = "Introduction"
 weight = 15
 +++
 
-Aliquip ea duis ad amet cillum anim aliquip ut et consectetur et id sint officia. Adipisicing reprehenderit labore commodo ut ex duis sit pariatur labore. Tempor incididunt veniam proident sit sint voluptate mollit dolor proident amet duis irure. Reprehenderit est qui quis sunt sunt incididunt culpa sint. Ea fugiat labore mollit duis culpa velit occaecat consequat. Ex occaecat veniam aute sint. Mollit est excepteur mollit amet ex veniam elit.
+> "The OMG Network is the leading value transfer layer for ETH and ERC20 tokens. It is the first production-grade layer-2 Ethereum scaling solution. With the OMG Network, users can move digital assets faster, cheaper, and at the same level of security as Ethereum."
 
-Deserunt cupidatat ad pariatur incididunt ullamco velit ad ad nulla cupidatat cupidatat exercitation. Minim qui tempor enim occaecat quis fugiat id. Id nulla est magna mollit adipisicing occaecat. Non exercitation commodo quis commodo et consequat reprehenderit ex.
+From the OMG Network [primer video](https://www.youtube.com/watch?v=w-tKyhA4QzE).
 
-Laboris ad ad nisi ex. Deserunt aliqua pariatur id id et magna sint est quis sint non pariatur elit nulla. Pariatur amet Lorem ad exercitation ex voluptate labore id laboris sit.
+This site is a collection point for all of the useful stuff collected by the community in the last few years. The community have been on a hell of a ride the last few years with this project but those who have stuck with it have (mostly) maintained a sense of humor about the whole thing:
 
-Dolor irure incididunt occaecat nulla ipsum. Dolore fugiat veniam et laboris et labore in sit nisi exercitation. Sunt culpa id cillum exercitation voluptate nostrud dolor est labore nisi quis eu Lorem. Occaecat exercitation do laborum non quis deserunt. Voluptate consequat aliquip aliquip id veniam adipisicing sunt ullamco nostrud. Lorem laboris et labore aliqua. Non Lorem enim eu esse sunt dolore enim.
-
-Laboris excepteur consectetur sint eiusmod irure eiusmod velit fugiat exercitation consequat esse aliquip aliqua. Ad sunt cupidatat commodo Lorem deserunt. Elit incididunt in incididunt nulla occaecat consequat do do pariatur sit et laboris. Reprehenderit consectetur in adipisicing qui dolor tempor ea mollit. Culpa quis consectetur esse minim voluptate qui.
+![rollercoaster](../images/rollercoaster.jpg?height=626px&width=512px)

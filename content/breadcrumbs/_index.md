@@ -1,7 +1,7 @@
 +++
 title = "Breadcrumbs"
 date = 2020-07-25T09:26:27+01:00
-weight = 6
+weight = 10
 chapter = true
 pre = "<b>2. </b>"
 +++
