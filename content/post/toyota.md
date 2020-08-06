@@ -4,6 +4,8 @@ title = "Toyota"
 date = "2020-08-06"
 description = "Official Toyota partnership"
 tags = ["official", "toyota"]
+categories = ["relationship"]
+
 +++
 
 ## Official announcement

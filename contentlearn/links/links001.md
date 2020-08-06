@@ -77,8 +77,6 @@ A subsidiary of Krungsri (Bank of Ayudhya) and member of the Mitsubishi UFJ Fina
 
 Series B investment in [Omise](https://www.krungsri.com/bank/en/NewsandActivities/Krungsri-Banking-News/krungsri-finnovate-invests-in-omise.html)
 
-
-
 #### Kambria
 
 [Kambria](https://medium.com/kambria-network/strategic-backer-announcement-df-capital-led-by-jun-hasegawa-d74c94dc1690)
