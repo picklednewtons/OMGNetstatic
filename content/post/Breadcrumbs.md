@@ -7,7 +7,7 @@ tags = ["community", "breadcrumb", 'hopium']
 categories = ["community"]
 +++
 
-Seems the easiest way to do this is try to get the crumbs in time order and give them a rating. Ratings will be from 1-5 denoted by the number of loafs :bread:
+Seems the easiest way to do this is try to get the crumbs in time order and give them a rating. Ratings will be from 1-5 denoted by the number of loaves :bread:
 
 ## 20200807 Blazing a Trail in the Digital Payments Space podcast
 
