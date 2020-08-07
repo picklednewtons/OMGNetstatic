@@ -9,16 +9,33 @@ Where to learn and contribute
 
 ## Official
 
-* OMG network [home site](https://omg.network/)
-* [MainNet block explorer](https://blockexplorer.mainnet.v1.omg.network/)
-* [TestNet block explorer](https://blockexplorer.ropsten.v1.omg.network/)
-* Demo wallet: 
-    * [Android](http://omg.eco/androidwallet)
-    * [IOS](http://omg.eco/ioswallet)
+* OMG network:
+    * [home site](https://omg.network/)
+    * [blog](https://omg.network/blog/)
+    * [documentation site](https://docs.omg.network/)
+    * [MainNet block explorer](https://blockexplorer.mainnet.v1.omg.network/)
+    * [TestNet block explorer](https://blockexplorer.ropsten.v1.omg.network/)
+    * Demo wallet: 
+        * [Android](http://omg.eco/androidwallet)
+        * [IOS](http://omg.eco/ioswallet)
 
 Vansa interview following mainnet release and rebranding to OMG Network:
 
 {{< youtube -NzJUON7JlE >}}
+
+What is the OMG network:
+
+{{< youtube w-tKyhA4QzE >}}
+
+Kasima Proof of work presentation at Messari mainnet 2020:
+
+{{< youtube VMvcfZkMQJY>}}
+
+Latest AMA with Vansa & Kasima:
+
+{{< youtube bPs_9sDOjAQ>}}
+
+Meh, your [YouTube search](https://www.youtube.com/results?search_query=omg+network) is as good as mine from here.
 
 ## Community guides
 

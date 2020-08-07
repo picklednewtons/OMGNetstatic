@@ -26,4 +26,4 @@ The OMG team duly stepped up with one of the [strongest proposals](https://www.r
 
 {{< twitter 1290111568324096000 >}}
 
-Even if OMG don't win the bakeoff it's a great turnaround and demonstration of the team capabilities in a 4 week turnaround.
+Even if OMG don't win the bakeoff it's a great turnaround and demonstration of the team capabilities in a 4 week timeframe.
