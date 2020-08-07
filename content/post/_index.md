@@ -1,5 +1,6 @@
 +++
 title = "Posts"
 author = "PickledNewtons"
-tags = ["index"]
 +++
+
+Posts are below :eyes:
