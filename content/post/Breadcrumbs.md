@@ -7,21 +7,23 @@ tags = ["community", "breadcrumb", 'hopium']
 categories = ["community"]
 +++
 
-Seems the easiest way to do this is try to get the crumbs in time order and give them a rating. Ratings will be from 1-5 denoted by the number of aliens :space_invader: for no reason whatsoever.
+Seems the easiest way to do this is try to get the crumbs in time order and give them a rating. Ratings will be from 1-5 denoted by the number of loafs :bread:
 
 ## 20200807 Blazing a Trail in the Digital Payments Space podcast
 
-Haven't listened to it but the crew seem excited: :space_invader::space_invader::space_invader::space_invader:
+Haven't listened to it but the crew seem excited: :bread::bread::bread::bread:
 
 > "For this episode of Breaking Banks, we are setting the stage for a new era of banking experiences and capabilities in the digital payments space. Our guests today are revolutionizing digital payments and paving the way for cashless transformation. Brett King is joined by contributor Brian Solis Global Innovation Evangelist of Salesforce and YandexMoney CEO Ivan Glazachev to discuss Russia’s advancements in payments, mobile wallets, and transfers in the wake of COVID-19. **Next, hear from Jun Hasegawa and K. Pitiporn Phanaphat as they chat with Brett King about blockchain technology for fintech applications**.
 >
 > With a recent investment round led by SCB10X, the Thailand based fintech SYNQA is poised to spread cashless solutions to businesses across Asia."
 
-[Listen here](https://podcasts.apple.com/nz/podcast/blazing-a-trail-in-the-digital-payments-space/id641357669?i=1000487340942)
+* [Listen here](https://podcasts.apple.com/nz/podcast/blazing-a-trail-in-the-digital-payments-space/id641357669?i=1000487340942)
+* [Pitiporn Phanaphat](https://th.linkedin.com/in/pitiporn-phanaphat-4a082843)
+* [SCB10X](https://scb10x.com/)
 
 ## 20200620 Buzzebees mentioned as OMG network tester on MSN news Thailand
 
-Not much to go on: :space_invader:
+Not much to go on: :bread:
 
 Via Google translate:
 
