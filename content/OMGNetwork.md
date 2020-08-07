@@ -16,6 +16,14 @@ Where to learn and contribute
     * [Android](http://omg.eco/androidwallet)
     * [IOS](http://omg.eco/ioswallet)
 
+Vansa interview following mainnet release and rebranding to OMG Network:
+
+{{< youtube -NzJUON7JlE >}}
+
+## Community guides
+
+The OMG Network for beginners by [OMGpool](https://medium.com/omgpool/the-omg-network-for-beginners-8aead34da727)
+
 ## Social
 
 Want to keep up to date as fast as possible? [Telegram - OMG Network (Unofficial)](https://t.me/OmiseGo)
