@@ -26,7 +26,11 @@ The OMG Network for beginners by [OMGpool](https://medium.com/omgpool/the-omg-ne
 
 ## Social
 
-Want to keep up to date as fast as possible? [Telegram - OMG Network (Unofficial)](https://t.me/OmiseGo)
+* [Telegram - OMG Network (Unofficial)](https://t.me/OmiseGo)
+* Reddit (official)
+    * [r/OMGNetwork](https://www.reddit.com/r/OMGnetwork/) (new)
+    * [r/omise_go](https://www.reddit.com/r/omise_go/) (old)
+
 
 ## Plamsa
 
