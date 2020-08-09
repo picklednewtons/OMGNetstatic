@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Deplebify</title>
+    <link>https://icy-bay-0b0640403.azurestaticapps.net/categories/</link>
+    <description>Recent content in Categories on Deplebify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://icy-bay-0b0640403.azurestaticapps.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>community</title>
+      <link>https://icy-bay-0b0640403.azurestaticapps.net/categories/community/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icy-bay-0b0640403.azurestaticapps.net/categories/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>relationship</title>
+      <link>https://icy-bay-0b0640403.azurestaticapps.net/categories/relationship/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icy-bay-0b0640403.azurestaticapps.net/categories/relationship/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

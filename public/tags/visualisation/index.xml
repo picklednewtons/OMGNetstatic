@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visualisation on Deplebify</title>
+    <link>https://icy-bay-0b0640403.azurestaticapps.net/tags/visualisation/</link>
+    <description>Recent content in visualisation on Deplebify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://icy-bay-0b0640403.azurestaticapps.net/tags/visualisation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OMG Visualised</title>
+      <link>https://icy-bay-0b0640403.azurestaticapps.net/post/omgvis/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://icy-bay-0b0640403.azurestaticapps.net/post/omgvis/</guid>
+      <description>Great visualisation of OMG network relationships (thanks Raum Schiff 🚀):
+ </description>
+    </item>
+    
+  </channel>
+</rss>
