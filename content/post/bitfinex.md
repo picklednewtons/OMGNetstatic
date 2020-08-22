@@ -1,7 +1,7 @@
 +++
 author = "PickledNewtons"
 title = "Bitfinex"
-date = "2020-08-06"
+date = "2020-08-22"
 description = "Official Bitfinex partnership"
 tags = ["official", "Bitfinex"]
 categories = ["relationship"]
