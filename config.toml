@@ -59,7 +59,7 @@ enableEmoji = true
     identifier = "about" # An unique identifier for the button
     name = "About"       # A display name for the button
     url = "/about/"      # The path to the content. It can lead to a single page (like here)
-    weight = 10          # A number to order the buttons in the navbar
+    weight = 40          # A number to order the buttons in the navbar
 
   [[menu.main]]
     identifier = "OMGNetwork" # An unique identifier for the button
@@ -71,13 +71,19 @@ enableEmoji = true
     identifier = "OMGPrice" # An unique identifier for the button
     name = "OMGPrice"       # A display name for the button
     url = "/price/"      # The path to the content. It can lead to a single page (like here)
-    weight = 10  
+    weight = 20  
+
+  [[menu.main]]
+    identifier = "OMGDeposits" # An unique identifier for the button
+    name = "OMGDeposits"       # A display name for the button
+    url = "/deposit/"      # The path to the content. It can lead to a single page (like here)
+    weight = 30  
 
   [[menu.main]]
     identifier = "posts"
     name = "All posts"
     url = "/post"       # The path can lead to a content folder too.
-    weight = 20
+    weight = 50
 
 [taxonomies]
 category = "categories"
