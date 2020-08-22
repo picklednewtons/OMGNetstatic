@@ -14,7 +14,7 @@ enableEmoji = true
     mainpagesubtitle = "OMG Network related goodness"
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "Don't be a pleb, learn the basics here, start with OMG Network on the top menu"
+    mainpagedesc = "Don't be a pleb, learn the basics here, start with `OMGNetwork` on the top menu"
 
     # The name to display in the copyright section in the footer
     copyrightname = "The Pickler"
