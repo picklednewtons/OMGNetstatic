@@ -68,6 +68,12 @@ enableEmoji = true
     weight = 10  
 
   [[menu.main]]
+    identifier = "OMGPrice" # An unique identifier for the button
+    name = "OMGPrice"       # A display name for the button
+    url = "/price/"      # The path to the content. It can lead to a single page (like here)
+    weight = 10  
+
+  [[menu.main]]
     identifier = "posts"
     name = "All posts"
     url = "/post"       # The path can lead to a content folder too.

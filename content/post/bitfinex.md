@@ -9,19 +9,12 @@ categories = ["relationship"]
 
 ## Official announcement
 
-In June 2020 OMG Network [announced](https://omg.network/bitfinex-usdt-tether-omg-network/) that Bitfinex will integrate Tether (USDt) on the OMG network:
+On the 17th August 2020 OMG Network [announced](https://omg.network/bitfinex-usdt-tether-integration-omg-network/) that Tether (USDt) Integration is Now Live on OMG Network:
 
-> “Today, we’re excited to announce the launch of the OMG Network that supports thousands of transactions per second and reduces transaction costs to a third of Ethereum,” said Vansa Chatikavanij, CEO at OMG Network. “We’re delighted to partner with Bitfinex to address blockchain’s scalability issues and drive further growth and adoption of open financial services.”
->
->
-> "At Bitfinex we are committed to improving our service to better support our customers,” said Paolo Ardoino, CTO at Bitfinex. “By migrating USDt value transfers to the OMG Network, we save costs, drive performance improvements, and relieve pressure on the root chain. This is good for Bitfinex, our users, and the entire Ethereum ecosystem."
+> At Bitfinex we are committed to driving innovation and improvements to our service to better support our customers,” said Paolo Ardoino, CTO at Tether. “By migrating USDt value transfers to the OMG Network we save costs, drive performance improvements and relieve pressure on the root chain network. This is good for Bitfinex and our customers, and the whole Ethereum ecosystem.
 
-This caused significant excite within the community as Tether currently makes up for more than half the volume on Ethereum. Paolo Ardoino then took excite to new levels by stating the "It's going to happen, we're almost there on the 18th of July:
+This was followed up by Tether's own announcement:
 
-{{< tweet 1284568047307587586 >}}
+{{< tweet 1296075479427014656 >}}
 
-...the OMG lads are waiting patiently:
-
-{{< tweet 1291325644446535686 >}}
-
-{{< figure src="/media/KirbyWen.jpg" title="@algorythm117" >}}
+[Tether (USDt) Integration Live on OMG Network](https://tether.to/tether-usdt-integration-live-on-omg-network/?__cf_chl_jschl_tk__=385e20546c17a4416904c4fb3b7a984f72e3ec1b-1598076478-0-AVTjhsxQnDk7Qx4NSGo8akoujNZK8tw1o7-sRi2pjZTd_TCCdKh63hXR1w7KJY02yRVTJn7WHfFjN9sOHgu3mE73OqAZBJ0CPwWu2Akir1ZhQOUN89u5cIj1qYWQQ1VD8vCBhMtawy0CdTbFYR63xsLsX90l8SJhx2admbungg-IqISOcO2fJ-i419mPmpVMRbofIWtfvwReJ6OUIkR66K7iaprHf5XF06GBHZUd8La9JDw5autiUScIhpyPY73HTsOPjtGVzkVW265mjaaLpFIKGcI0tugT4dJyVp6Cr4I8kCq7GhP0magsuoABIm0vG02qvvjXvkb2lESnmVwjC_M)
