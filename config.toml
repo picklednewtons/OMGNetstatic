@@ -11,10 +11,10 @@ enableEmoji = true
     mainpagetitle = "Deplebify"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Can you read me now?"
+    mainpagesubtitle = "OMG Network related goodness"
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This theme should make the old buffers happy"
+    mainpagedesc = "Don't be a pleb, learn the basics here, start with OMG Network on the top menu"
 
     # The name to display in the copyright section in the footer
     copyrightname = "The Pickler"

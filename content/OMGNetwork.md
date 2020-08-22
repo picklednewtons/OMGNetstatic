@@ -19,13 +19,13 @@ Where to learn and contribute
         * [Android](http://omg.eco/androidwallet)
         * [IOS](http://omg.eco/ioswallet)
 
-Vansa interview following mainnet release and rebranding to OMG Network:
-
-{{< youtube -NzJUON7JlE >}}
-
 What is the OMG network:
 
 {{< youtube w-tKyhA4QzE >}}
+
+Vansa interview following mainnet release and rebranding to OMG Network:
+
+{{< youtube -NzJUON7JlE >}}
 
 Kasima Proof of work presentation at Messari mainnet 2020:
 
