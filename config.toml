@@ -110,12 +110,6 @@ weight = 30
 identifier = "OMGDeposits"
 url = "/deposit/"
 
-[[menu.main]]
-name = "All posts"
-weight = 50
-identifier = "posts"
-url = "/post"
-
 [blackfriday]
 hrefTargetBlank = true
 

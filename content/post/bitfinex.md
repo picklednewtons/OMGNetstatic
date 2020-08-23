@@ -1,11 +1,13 @@
-+++
-author = "PickledNewtons"
-title = "Bitfinex"
-date = "2020-08-22"
-description = "Official Bitfinex partnership"
-tags = ["official", "Bitfinex"]
-categories = ["relationship"]
-+++
+---
+date: 2020-08-22T00:00:00+00:00
+lastmod: 2020-08-22T00:00:00+00:00
+title: "Bitfinex"
+authors: ['PickledNewtons']
+tags:
+  - official
+  - Bitfinex
+toc: false
+---
 
 ## Official announcement
 

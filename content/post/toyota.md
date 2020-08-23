@@ -1,11 +1,13 @@
-+++
-author = "PickledNewtons"
-title = "Toyota"
-date = "2020-08-06"
-description = "Official Toyota partnership"
-tags = ["official", "toyota"]
-categories = ["relationship"]
-+++
+---
+date: 2020-08-06T00:00:00+00:00
+lastmod: 2020-08-06T00:00:00+00:00
+title: "Toyota"
+authors: ['PickledNewtons']
+tags:
+  - toyota
+  - official
+toc: false
+---
 
 ## Official announcement
 

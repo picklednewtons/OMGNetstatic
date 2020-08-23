@@ -1,10 +1,13 @@
-+++
-title = "Reddit bakeoff"
-description = "OMG Network's Great Reddit Scaling Bake-Off Proposal"
-date = "2020-08-07"
-author = "PickledNewtons"
-tags = ["reddit", "official"]
-+++
+---
+date: 2020-08-07T00:00:00+00:00
+lastmod: 2020-08-07T00:00:00+00:00
+title: "Reddit bakeoff"
+authors: ['PickledNewtons']
+tags:
+  - reddit
+  - official
+toc: false
+---
 
 In July 2020 Reddit announced a competition titled [The Great Reddit Scaling Bake-Off](https://www.reddit.com/r/ethereum/comments/hbjx25/the_great_reddit_scaling_bakeoff/) and invited teams to demonstrate how their technology could provide the back-end for a Reddit points architecture on Ethereum mainnet.
 

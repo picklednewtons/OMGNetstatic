@@ -1,0 +1,13 @@
+id = "PickledNewtons"
+
+[email]
+username = "muniftanjim"
+host = "gmail.com"
+
+[name]
+display = "Munif Tanjim"
+
+[social]
+email = ""
+facebook  = "MunifTanjim"
+twitter = "MunifTanjim"

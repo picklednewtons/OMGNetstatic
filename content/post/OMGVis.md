@@ -1,10 +1,14 @@
-+++
-title = "OMG Visualised"
-description = "An attempt to visualize the connections and relationships of the OMG Network and the surrounding blockchain ecosystem"
-date = "2020-08-07"
-author = "PickledNewtons"
-tags = ["relationship", "visualisation", "community"]
-+++
+---
+date: 2020-08-07T00:00:00+00:00
+lastmod: 2020-08-07T00:00:00+00:00
+title: "OMG Visualised"
+authors: ['PickledNewtons']
+tags:
+  - community
+  - relationship
+  - visualisation
+toc: false
+---
 
 Great visualisation of OMG network relationships (thanks Raum Schiff :rocket:):
 
