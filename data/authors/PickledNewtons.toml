@@ -2,13 +2,12 @@ id = "PickledNewtons"
 lang = "en"
 
 [email]
-username = "muniftanjim"
+username = "PickledNewtons"
 host = "gmail.com"
 
 [name]
-display = "Munif Tanjim"
+display = "PickledNewtons"
 
 [social]
 email = ""
-facebook  = "MunifTanjim"
-twitter = "MunifTanjim"
+twitter = "NewtonsPickled"
