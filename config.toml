@@ -93,19 +93,19 @@ identifier = "about"
 url = "/about/"
 
 [[menu.main]]
-name = "OMGNetwork"
-weight = 10
+name = "OMG Network"
+weight = -250
 identifier = "OMGNetwork"
 url = "/OMGNetwork/"
 
 [[menu.main]]
-name = "OMGPrice"
+name = "Price"
 weight = 20
 identifier = "OMGPrice"
 url = "/price/"
 
 [[menu.main]]
-name = "OMGDeposits"
+name = "Deposits"
 weight = 30
 identifier = "OMGDeposits"
 url = "/deposit/"

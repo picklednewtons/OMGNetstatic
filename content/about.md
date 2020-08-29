@@ -2,7 +2,7 @@
 date: 2020-08-06T00:00:00+00:00
 lastmod: 2020-08-06T00:00:00+00:00
 title: About
-authors: ['PickledNewtons']
+authors: ['picklednewtons']
 toc: false
 ---
 

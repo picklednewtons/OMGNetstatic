@@ -2,7 +2,7 @@
 date: 2020-08-06T00:00:00+00:00
 lastmod: 2020-08-06T00:00:00+00:00
 title: "Toyota"
-authors: ['PickledNewtons']
+authors: ['picklednewtons']
 tags:
   - toyota
   - official

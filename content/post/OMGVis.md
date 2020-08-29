@@ -2,7 +2,7 @@
 date: 2020-08-07T00:00:00+00:00
 lastmod: 2020-08-07T00:00:00+00:00
 title: "OMG Visualised"
-authors: ['PickledNewtons']
+authors: ['picklednewtons']
 tags:
   - community
   - relationship

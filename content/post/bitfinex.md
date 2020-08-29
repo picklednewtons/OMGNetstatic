@@ -2,7 +2,7 @@
 date: 2020-08-22T00:00:00+00:00
 lastmod: 2020-08-22T00:00:00+00:00
 title: "Bitfinex"
-authors: ['PickledNewtons']
+authors: ['picklednewtons']
 tags:
   - official
   - Bitfinex

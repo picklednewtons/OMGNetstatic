@@ -1,8 +1,8 @@
 ---
 date: 2020-08-06T00:00:00+00:00
-lastmod: 2020-08-06T00:00:00+00:00
+lastmod: 2020-08-29T00:00:00+00:00
 title: "OMG Network"
-authors: ['PickledNewtons']
+authors: ['picklednewtons']
 toc: false
 ---
 
@@ -16,6 +16,7 @@ Where to learn and contribute
     * [documentation site](https://docs.omg.network/)
     * [MainNet block explorer](https://blockexplorer.mainnet.v1.omg.network/)
     * [TestNet block explorer](https://blockexplorer.ropsten.v1.omg.network/)
+    * OMG-Network labelled accounts on [etherscan](https://etherscan.io/accounts/label/omg-network)
     * Demo wallet: 
         * [Android](http://omg.eco/androidwallet)
         * [IOS](http://omg.eco/ioswallet)
@@ -50,7 +51,7 @@ The OMG Network for beginners by [OMGpool](https://medium.com/omgpool/the-omg-ne
     * [r/omise_go](https://www.reddit.com/r/omise_go/) (old)
 
 
-## Plamsa
+## Plasma
 
 * [LearnPlasma](https://www.learnplasma.org/en/)
 * [Is Plasma a sidechain?](https://isplasmaasidechain.com/)
