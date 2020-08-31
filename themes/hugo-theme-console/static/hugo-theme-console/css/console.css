@@ -52,6 +52,7 @@
 
 .cover {
     object-fit: cover;
+    width:50%
   }
 
 .sidebar-heading {
