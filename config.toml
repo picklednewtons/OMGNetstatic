@@ -1,6 +1,6 @@
-baseurl = "https://example.com/"
+baseurl = "https://www.omgcommunity.network/"
 title = "Deplibify"
-theme = "console"
+theme = "hugo-theme-console"
 languageCode = "en-us"
 
 [params]
