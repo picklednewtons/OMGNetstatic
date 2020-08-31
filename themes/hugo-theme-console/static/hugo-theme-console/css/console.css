@@ -50,10 +50,10 @@
     }
 }
 
-.cover {
+#cover {
     object-fit: cover;
     width:30% !important;
-  }
+}
 
 .sidebar-heading {
     text-transform: none;
