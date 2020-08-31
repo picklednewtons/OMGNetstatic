@@ -25,6 +25,10 @@ jobs:
           hugo-version: "latest"
           # Download (if necessary) and use Hugo extended version. Example: true
           extended: false
+      - name: npm/yarn/pnpm install
+        # You may pin to the exact commit or the version.
+        # uses: Jaid/action-npm-install@9483da054882538350947c4147de4c8adbf0d597
+        uses: Jaid/action-npm-install@v1.2.4
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v0.0.1-preview
