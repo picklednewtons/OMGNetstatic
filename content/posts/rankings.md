@@ -6,6 +6,8 @@ authors: ['picklednewtons']
 toc: false
 ---
 
+Your level in the OMG hierarchy depending on how many OMG you own.
+
 {{< figure src="/media/rank01.jpg" >}}
 
 {{< figure src="/media/rank02.jpg" >}}

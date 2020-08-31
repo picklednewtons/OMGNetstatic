@@ -5,18 +5,14 @@ languageCode = "en-us"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = true
-
-  [[params.navlinks]]
-  name = "about/"
-  url = "about/"
+  titleCutting = false
 
   [[params.navlinks]]
   name = "posts/"
   url = "posts/"
   
   [[params.navlinks]]
-  name = "OMGNetwork/"
+  name = "Network/"
   url = "omgnetwork/"
 
   [[params.navlinks]]
@@ -26,7 +22,3 @@ languageCode = "en-us"
   [[params.navlinks]]
   name = "Deposits/"
   url = "deposit/"
-
-  [[params.navlinks]]
-  name = "Rankings/"
-  url = "rankings/"
