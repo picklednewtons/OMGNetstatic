@@ -158,6 +158,7 @@ figure {
     margin-bottom: 15px;
     margin-left: 60px;
     margin-right: 60px;
+    overflow: hidden;
 }
 
 .footer {

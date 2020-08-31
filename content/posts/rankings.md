@@ -8,27 +8,30 @@ toc: false
 
 Your level in the OMG hierarchy depending on how many OMG you own.
 
-{{< figure src="/media/rank01.jpg" >}}
+{{< figure src= "/media/rank01.jpg" height=630 >}}
 
-{{< figure src="/media/rank02.jpg" >}}
+{{< figure src= "/media/rank01_1.jpg" height=630 >}}
 
-{{< figure src="/media/rank03.jpg" >}}
+{{< figure src= "/media/rank02.jpg" height=630 >}}
 
-{{< figure src="/media/rank04.jpg" >}}
+{{< figure src= "/media/rank03.jpg" height=630 >}}
 
-{{< figure src="/media/rank05.jpg" >}}
+{{< figure src= "/media/rank04.jpg" height=630 >}}
 
-{{< figure src="/media/rank06.jpg" >}}
+{{< figure src= "/media/rank05.jpg" height=630 >}}
 
-{{< figure src="/media/rank07.jpg" >}}
+{{< figure src= "/media/rank06.jpg" height=630 >}}
 
-{{< figure src="/media/rank08.jpg" >}}
+{{< figure src= "/media/rank07.jpg" height=630 >}}
 
-{{< figure src="/media/rank09.jpg" >}}
+{{< figure src= "/media/rank08.jpg" height=630 >}}
 
-{{< figure src="/media/rank10.jpg" >}}
+{{< figure src= "/media/rank09.jpg" height=630 >}}
 
-{{< figure src="/media/rank11.jpg" >}}
+{{< figure src= "/media/rank10.jpg" height=630 >}}
 
-{{< figure src="/media/rank12.jpg" >}}
+{{< figure src= "/media/rank11.jpg" height=630 >}}
 
+{{< figure src= "/media/rank12.jpg" height=630 >}}
+
+{{< figure src= "/media/rank13.jpg" height=630 >}}
