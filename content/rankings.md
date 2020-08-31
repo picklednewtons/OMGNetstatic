@@ -6,7 +6,7 @@ authors: ['picklednewtons']
 toc: false
 ---
 
-{{< figure src="/media/rank01.jpg" width=400 height=630 >}}
+{{< figure src="/media/rank01.jpg" >}}
 
 {{< figure src="/media/rank02.jpg" >}}
 
