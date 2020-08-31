@@ -6,4 +6,4 @@ authors: ['picklednewtons']
 toc: false
 ---
 
-Just a pleb trying to help fellow plebs
+Site maintained by the OMG community to help fellow plebs get up to date on the OMG Network basics.
