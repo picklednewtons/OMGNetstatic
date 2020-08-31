@@ -1,6 +1,6 @@
 baseurl = "https://example.com/"
-title = "Deplibify"
-theme = "console"
+title = "console-demo"
+theme = "hugo-theme-console"
 languageCode = "en-us"
 
 [params]
@@ -16,17 +16,5 @@ languageCode = "en-us"
   url = "posts/"
   
   [[params.navlinks]]
-  name = "OMGNetwork/"
-  url = "omgnetwork/"
-
-  [[params.navlinks]]
-  name = "Price/"
-  url = "price/"
-
-  [[params.navlinks]]
-  name = "Deposits/"
-  url = "deposit/"
-
-  [[params.navlinks]]
-  name = "Rankings/"
-  url = "rankings/"
+  name = "photos/"
+  url = "photos/"
