@@ -10,6 +10,6 @@ tags:
 toc: false
 ---
 
-Great visualisation of OMG network relationships (thanks Raum Schiff :rocket:):
+Great visualisation of OMG network relationships (thanks Raum Schiff):
 
 {{< kumu >}}

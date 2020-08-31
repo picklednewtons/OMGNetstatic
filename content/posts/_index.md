@@ -8,5 +8,3 @@ menu:
 weight: -250
 slug: posts
 ---
-
-Posts are below :eyes:
