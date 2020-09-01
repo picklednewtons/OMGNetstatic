@@ -6,4 +6,4 @@ authors: ['picklednewtons']
 toc: false
 ---
 
-Site maintained by the OMG community to help fellow plebs get up to date on the OMG Network basics.
+Site maintained by the OMG community to help fellow plebs get up to speed on the OMG Network basics.

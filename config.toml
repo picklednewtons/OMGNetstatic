@@ -22,3 +22,11 @@ languageCode = "en-us"
   [[params.navlinks]]
   name = "Deposits/"
   url = "deposit/"
+
+  [[params.navlinks]]
+  name = "Rankings/"
+  url = "rankings/"
+
+  [[params.navlinks]]
+  name = "Memes/"
+  url = "memes/"
