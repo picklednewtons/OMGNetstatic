@@ -9,6 +9,8 @@ tags:
 toc: false
 ---
 
-Thanks u/RealFakeDoris:
+From original Reddit post by u/RealFakeDoris:
+
+{{< reddit "r/OMGnetwork/comments/in8dnt/i_made_an_omg_network_rock_leaderboard/" "r/OMGnetwork" "I made an OMG Network Rock Leaderboard by u/RealFakeDoris">}}
 
 {{< rockleader >}}
