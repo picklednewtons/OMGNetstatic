@@ -11,6 +11,7 @@ toc: false
 ## 20200910
 
 * Moved omgpool to top menu
+* Added Medium feed to Network page
 
 ## 20200909
 
