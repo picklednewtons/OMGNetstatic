@@ -56,3 +56,9 @@ The OMG Network for beginners by [OMGpool](https://medium.com/omgpool/the-omg-ne
 * [LearnPlasma](https://www.learnplasma.org/en/)
 * [Is Plasma a sidechain?](https://isplasmaasidechain.com/)
 * Childchain compared to sidechain by [omg.network](https://omg.network/plasma-childchain-sidechain/)
+
+## Medium
+
+Keep up-to-date with the OMG Network with this feed from their medium channel:
+
+{{< medium "https://medium.com/feed/omgnetwork" >}}

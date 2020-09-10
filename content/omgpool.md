@@ -43,4 +43,4 @@ OMG hype video
 
 Keep up-to-date with our friends over at omgpool with this feed from their medium channel.
 
-{{< mediumomgpool >}}
+{{< medium "https://medium.com/feed/omgpool" >}}
