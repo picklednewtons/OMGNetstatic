@@ -1,15 +1,15 @@
 ---
 date: 2020-09-09T00:00:00+00:00
 lastmod: 2020-09-09T00:00:00+00:00
-title: "omgpool goodies"
-authors: ['unlimitedcake']
+title: "omgpool"
+authors: ['picklednewtons']
 tags:
   - community
   - education
 toc: false
 ---
 
-Our friends over at omgpool have suggested some new resources for the site (thanks UnlimitedCake). I will copy these to the main `Network' page too.
+Our friends over at omgpool have suggested some new resources for the site (thanks UnlimitedCake).
 
 ## Staking resources
 
@@ -38,3 +38,9 @@ Mainnet hype video
 
 OMG hype video
 {{< youtube 2L2gb35TUjM >}}
+
+## Medium
+
+Keep up-to-date with our friends over at omgpool with this feed from their medium channel.
+
+{{< mediumomgpool >}}

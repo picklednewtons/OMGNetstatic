@@ -16,8 +16,8 @@ languageCode = "en-us"
   url = "omgnetwork/"
 
   [[params.navlinks]]
-  name = "Price/"
-  url = "price/"
+  name = "omgpool/"
+  url = "omgpool/"
 
   [[params.navlinks]]
   name = "Deposits/"
