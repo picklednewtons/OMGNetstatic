@@ -1,7 +1,7 @@
 ---
 date: 2020-09-09T00:00:00+00:00
 lastmod: 2020-09-09T00:00:00+00:00
-title: "omgpool"
+title: "OMGPool"
 authors: ['picklednewtons']
 tags:
   - community
