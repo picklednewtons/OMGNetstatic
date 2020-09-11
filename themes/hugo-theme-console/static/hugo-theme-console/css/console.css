@@ -32,7 +32,7 @@
 
 :root {
     --global-font-size: 16px;
-    --global-font-color: #444;
+    --global-font-color: #C5C8C6;
     --mono-font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.6em;
@@ -44,7 +44,7 @@
 @media only screen and (max-width: 850px) {
     :root {
         --global-font-size: 14px;
-        --global-font-color: #444;
+        --global-font-color: #fff;
         --global-line-height: 1.6em;
         --page-width: 70em;
     }
@@ -54,6 +54,11 @@
     object-fit: cover;
     width:60% !important;
 }
+
+.redditDiv {
+    background-color: #fff;
+    display:inline-block;
+  }
 
 .sidebar-heading {
     text-transform: none;
@@ -77,7 +82,7 @@
 body {
     font-family: var(--font-stack);
     font-size: var(--global-font-size);
-    background-color: #fff;
+    background-color: #444;
     margin-bottom: 75px;
 }
 

@@ -3,7 +3,7 @@ date: 2020-08-06T00:00:00+00:00
 lastmod: 2020-08-29T00:00:00+00:00
 title: "OMG Network"
 authors: ['picklednewtons']
-toc: false
+toc: true
 ---
 
 Where to learn and contribute
