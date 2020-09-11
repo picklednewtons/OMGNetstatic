@@ -10,10 +10,10 @@ toc: false
 
 ## 20200910
 
-* Moved omgpool to top menu
+* Moved OMGPool to top menu
 * Added Medium feed to Network page
 
 ## 20200909
 
 * Moved price from the top menu to a link on the main page
-* Added omgpool posts
+* Added OMGPool posts
