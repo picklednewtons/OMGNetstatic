@@ -8,7 +8,7 @@ languageCode = "en-us"
   titleCutting = false
 
   [[params.navlinks]]
-  name = "posts/"
+  name = "Posts/"
   url = "posts/"
   
   [[params.navlinks]]
@@ -16,7 +16,7 @@ languageCode = "en-us"
   url = "omgnetwork/"
 
   [[params.navlinks]]
-  name = "omgpool/"
+  name = "OMGPool/"
   url = "omgpool/"
 
   [[params.navlinks]]
