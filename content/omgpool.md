@@ -1,7 +1,7 @@
 ---
 date: 2020-09-09T00:00:00+00:00
 lastmod: 2020-09-09T00:00:00+00:00
-title: "omgpool"
+title: "OMGPool"
 authors: ['picklednewtons']
 tags:
   - community
@@ -9,7 +9,7 @@ tags:
 toc: false
 ---
 
-Our friends over at omgpool have suggested some new resources for the site (thanks UnlimitedCake).
+Our friends over at OMGPool have suggested some new resources for the site (thanks UnlimitedCake).
 
 ## Staking resources
 
@@ -41,6 +41,6 @@ OMG hype video
 
 ## Medium
 
-Keep up-to-date with our friends over at omgpool with this feed from their medium channel.
+Keep up-to-date with our friends over at OMGPool with this feed from their medium channel.
 
 {{< medium "https://medium.com/feed/omgpool" >}}
