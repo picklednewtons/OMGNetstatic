@@ -21,4 +21,4 @@ On December 9th OMG the team made OMG available on the [Genesis Block Coinhere A
 {{< youtube -fW7SRK7oJ4 >}}
 Coinhere - how to buy OMG
 
-This was followed by the main [Telegram group](https://t.me/OmiseGo) moving to **official** status and GBV team continue to engage the community there.
+This was followed by the main [Telegram group](https://t.me/OmiseGo) moving to **official** status and the GBV team continue to engage the community there.
