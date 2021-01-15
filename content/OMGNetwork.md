@@ -45,7 +45,7 @@ The OMG Network for beginners by [OMGpool](https://medium.com/omgpool/the-omg-ne
 
 ## Social
 
-* [Telegram - OMG Network (Unofficial)](https://t.me/OmiseGo)
+* [Telegram - OMG Network official](https://t.me/OmiseGo)
 * Reddit (official)
     * [r/OMGNetwork](https://www.reddit.com/r/OMGnetwork/) (new)
     * [r/omise_go](https://www.reddit.com/r/omise_go/) (old)
