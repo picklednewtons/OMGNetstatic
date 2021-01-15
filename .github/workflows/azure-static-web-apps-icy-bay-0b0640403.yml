@@ -20,6 +20,8 @@ jobs:
           submodules: true
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2.4.12
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
         with:
           # The Hugo version to download (if necessary) and use. Example: 0.58.2
           hugo-version: "latest"
