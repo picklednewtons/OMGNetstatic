@@ -1,32 +1,8 @@
 baseurl = "https://www.omgcommunity.network/"
-title = "OMG"
+title = "Boba network"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = false
-
-  [[params.navlinks]]
-  name = "Posts/"
-  url = "posts/"
-  
-  [[params.navlinks]]
-  name = "Network/"
-  url = "omgnetwork/"
-
-  [[params.navlinks]]
-  name = "OMGPool/"
-  url = "omgpool/"
-
-  [[params.navlinks]]
-  name = "Deposits/"
-  url = "deposit/"
-
-  [[params.navlinks]]
-  name = "Rankings/"
-  url = "rankings/"
-
-  [[params.navlinks]]
-  name = "Memes/"
-  url = "memes/"
